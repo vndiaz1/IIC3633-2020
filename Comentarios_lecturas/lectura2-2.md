@@ -18,7 +18,7 @@ Encuentro que fue bueno que presentaran  una contextualización del estado del a
 
 Fue bueno que explicaran la notación que iban a utilizar para mostrar su método y las figuras del *paper* en general ayudaron a comprender mejor lo que querían explicar en cada momento. Un ejemplo se puede ver en la siguiente figura:
 
-![] (Assets/BPR_fig1.png)
+![](https://github.com/vndiaz1/vndiaz1-IIC3633-2020/tree/master/Assets/BPR_fig1.png)
 
 Esta figura ayudó a entender cómo los autores elaboraron los datos a partir del *dataset* de forma simple en vez de utilizar una ecuación o sólo con texto. 
 
@@ -28,7 +28,7 @@ Antes de realizar los experimentos con los distintos modelo de recomendación, h
 
 Me gustó que utilizaran dos *datasets* en sus experimentos en vez de uno solo, porque así se puede ver el verdadero potencial que tiene este método para mejorar el aprendizaje de los sistemas recomendadores. También, como se ve en la siguiente figura, la visualización de los resultados era simple y fácil de analizar para obtener propias conclusiones de los experimentos.
 
-![] (Assets/BPR_fig2.png)
+![](https://github.com/vndiaz1/vndiaz1-IIC3633-2020/tree/master/Assets/BPR_fig2.png)
 
 A modo general, encontré muy bueno cómo el formato de este *paper*. Gracias al modo de cómo explicaron cada elemento, el orden que siguieron y las figuras/ecuaciones que utilizaron en cada apartado, hicieron una grata lectura y comprensión del método que querían explicar. En cuánto al tema, encuentro muy interesante el enfoque que le dieron para mejorar el problema de la generación de *rankings* personalizados. En vez de afrontarlo mediante la propuesta de un nuevo modelo de recomendación, demostraron que cambiando el criterio y el algoritmo de aprendizaje se puede mejorar bastante el desempeño de un mismo modelo recomendador.
 
