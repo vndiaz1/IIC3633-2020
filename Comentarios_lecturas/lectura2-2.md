@@ -18,7 +18,7 @@ Encuentro que fue bueno que presentaran  una contextualización del estado del a
 
 Fue bueno que explicaran la notación que iban a utilizar para mostrar su método y las figuras del *paper* en general ayudaron a comprender mejor lo que querían explicar en cada momento. Un ejemplo se puede ver en la siguiente figura:
 
-![](https://github.com/vndiaz1/vndiaz1-IIC3633-2020/tree/master/Assets/BPR_fig1.png)
+![Fig 1](https://github.com/vndiaz1/vndiaz1-IIC3633-2020/tree/master/Assets/BPR_fig1.png "Fig 1")
 
 Esta figura ayudó a entender cómo los autores elaboraron los datos a partir del *dataset* de forma simple en vez de utilizar una ecuación o sólo con texto. 
 
