@@ -1,5 +1,5 @@
 # Crítica de la lectura 3-1: Performance of Recommender Algorithms on Top-N Recommendation Tasks
-En este paper, los autores Cremonesi, Koren y Turrin muestran el rendimiento que tienen algunos sistemas recomendadores que había hasta el momento, junto con sistemas elaborados por ellos, para la tarea de hacer recomendaciones de Top-N. 
+En este paper, los autores Cremonesi, Koren y Turrin muestran el rendimiento que tienen algunos sistemas recomendadores que había hasta el momento, junto con sistemas elaborados por ellos, para la tarea de hacer recomendaciones top-N. 
 
 ### Resumen
 
@@ -26,7 +26,5 @@ La estructura general del *paper* la encontré muy buena, ya que estaba muy orde
 ![](Assets/lectura3-1_grafico.png)
 
 En esta figura se muestran los resultados de uno de los experimentos que realizaron. A pesar de que están bien hechos y se entienden bien, me hubiera gustado que las líneas de cada algoritmo sean de un color distinto, para facilitar el análisis de los gráficos.
-
-
 
 En fin, me pareció un muy buen *paper*, donde explican una idea bastante simple e innovadora, pero que tiene un gran potencial para mejorar la recomendación top-N.

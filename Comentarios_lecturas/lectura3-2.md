@@ -24,3 +24,13 @@ Luego, nombran y explican las propiedades que tienen estos sistemas, para así  
 
 La estructura de este capítulo me pareció muy ordenada, lo que me facilitó la lectura y la comprensión de esta. Además, el hecho de agregar ejemplos en cada sección ayudó a aterrizar y comprender mejor lo que se estaban explicando.
 
+En cuánto al tema explicado, encuentro que las evaluaciones de los sistemas recomendadores son muchas (cómo se pueden ver en el resumen) y esto puede llegar a dificultar la decisión de elegir el mejor modelo para la tarea que se está trabajando. Por esta razón, es muy importante definir cuáles son los objetivos principales del proyecto que se está realizando para enfocarse en las que más propiedades más significativas. No obstante, encuentro que casi sin importar el tipo de tarea, las métricas numéricas de exactitud (*accuracy*) siempre tienen que estar al momento de comparar los modelos. Esto lo digo, porque se ha comprobado empíricamente a lo largo de los años que generalmente los mejores modelo tienen muy buenos *scores* en estas métricas. 
+
+Otro punto importante es elegir que tipo de métrica se quiere para optimizar el rendimiento del modelo, ya que, como se explicó en el capítulo del libro, hay diversas métricas, donde cada una se especializa en medir un tipo de desempeño (ya sea error, precisión, ranking, entre otros). Dado esto, encontré muy bueno esta sección del capítulo, porque explica de forma más profunda y con sus debidas fórmulas cada métrica de desempeño.  Aunque quiero decir que costó seguir algunas de estas por su cantidad de símbolos matemáticos que se usan. Un ejemplo se muestra a continuación:
+
+![](Assets/lectura3-2_metrica1.png)
+
+En este apartado del texto se explica la **métrica de precisión promedio (AP)**, el que a pesar de que está bastante ordenado y con sus respectivas fórmulas, igual me costó entender bien lo que significa y cómo funciona esta. Lo bueno es que en el párrafo final aclara que el mejor valor es 1 y el peor es 0, lo que ayuda a entender mejor esta métrica.
+
+A modo general, me gustó este capítulo del libro, ya que ayuda a ampliar el conocimiento para evaluar modelo, ya sean de recomendación, como de otro rubro. La evaluación es un tema muy importante a la hora de trabajar en un proyecto, porque te permite elegir entre la gran variedad. 
+
