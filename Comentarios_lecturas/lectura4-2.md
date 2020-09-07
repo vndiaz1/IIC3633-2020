@@ -21,13 +21,13 @@ En cuanto a este, encontré que su formulación es bastante intuitiva, lo que si
 
 También, me gustó la comparación gráfica que se hizo entre NMF y SVD, porque me ayudó a entender de forma muy fácil lo que querían explicar.
 
-![](Assets\lectura4-2_comparacion.png)
+![](Assets/lectura4-2_comparacion.png)
 
 Con la imagen anterior se puede ver claramente las diferencia que tienen los métodos de NMF y SVD al momento de hacer *clustering* mediante descomposición de matrices. En especial, el hecho de que NMF se evita el paso final de hacer *K-means* para segmentar los *clusters*, ya que cada clase tiene su propio eje.
 
 Sobre lo experimentos, me pareció muy bueno el hecho de utilizar más de un *dataset*, dado que así se puede comparar de forma más robusta los métodos. Sin embargo, no me gustó la forma en que mostraron sus resultados:
 
-![](Assets\lectura4-2_tabla.png)
+![](Assets/lectura4-2_tabla.png)
 
 El hecho de utilizar sólo tablas en vez de gráficos, me dificultó un poco más la interpretación de estos, ya que son muchos números con valores muy similares.
 
