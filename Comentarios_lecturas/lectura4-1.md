@@ -1,4 +1,4 @@
-# Crítica de la lectura 4-2: Content-Based Recommendation Systems
+# Crítica de la lectura 4-1: Content-Based Recommendation Systems
 Este capítulo del libro *The Adaptive Web* escrito por Pazzani y Billsus trata sobre el funcionamiento general los sistemas recomendadores basado en contenido, hablando sobre sus principales características, métodos de aprendizaje, principales ventajas y desventajas, entre otros.
 
 ### Resumen
