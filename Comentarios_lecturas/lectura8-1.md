@@ -1,6 +1,4 @@
-# Crítica de la lectura 8-1: A User-Centric Evaluation Framework for Recommender
-Systems
-
+# Crítica de la lectura 8-1: A User-Centric Evaluation Framework for Recommender Systems
 En este *paper*, los autores proponen un *framework* completo que permite evaluar la experiencia de los usuarios con los sistemas recomendadores. Este sistema se llama **ResQue** y consiste en 32 preguntas y 15 constructos que permiten evaluar las cualidades esenciales para tener un efectivo y satisfactorio sistema recomendador.
 
 ### Resumen

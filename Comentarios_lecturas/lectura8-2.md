@@ -1,6 +1,4 @@
-# Crítica de la lectura 8-2: See What You Want to See: Visual User-Driven Approach
-for Hybrid Recommendation
-
+# Crítica de la lectura 8-2: See What You Want to See: Visual User-Driven Approach for Hybrid Recommendation
 Este *paper* escrito por los autores D. Parra, P. Brusilovsky y C. Trattner el año 2014, trata sobre la implementación de una interfaz gráfica de sistemas recomendadores híbridos en donde el usuario puede controlar la importancia de cada modelo para generar sus recomendaciones.
 
 ### Resumen
@@ -25,7 +23,7 @@ También, encontré que se explicó muy bien y de forma detallada la interfaz pr
 
 En esta figura se puede ver claramente la estructura de la interfaz y sus funcionalidades, lo que ayuda a comprender mejor como funciona esta y el impacto que puede causar para los sistemas recomendadores.
 
-A pesar de que explicaron los estudios realizados de esta interfaz en dos conferencias, no me quedó del todo claro cuáles eran las diferencias entre las dos interfaces, lo que no me permitió ver el gran impacto de los resultados obtenidos. También, me hubiera gustado que dentro de una misma conferencia, se hubiesen presentado ambas interfaces, pero a distintas personas, para tener una comparación con la misma población. Esto lo digo, ya que a pesar de que ambas conferencias era de área de RecSys, hay diferencias de contexto (ej temporal) que pueden afectar a la evaluación de la interfaz.
+A pesar de que explicaron los estudios realizados de esta interfaz en dos conferencias, no me quedó del todo claro cuáles eran las diferencias entre las dos interfaces, lo que no me permitió ver el gran impacto de los resultados obtenidos. También, me hubiera gustado que dentro de una misma conferencia, se hubiesen presentado ambas interfaces, pero a distintas personas, para tener una comparación con la misma población. Esto lo digo, ya que a pesar de que ambas conferencias era de área de RecSys, hay diferencias de contexto (ej. temporal) que pueden afectar a la evaluación de la interfaz.
 
 A modo de conclusión, este *paper* es muy interesante por el hecho de tocar un tema tan relevante para los RecSys, pero que no se han realizado tantos estudios. Además, generaron una interfaz bastante amigable que permite controlar y tener una explicación de las recomendaciones obtenidas, lo que le da una ventaja al sistema recomendador. No obstante, este ha sido sólo un estudio, por lo que me gustaría ver más pruebas en otro tipo de datos y perfiles de usuarios distintos, para ver el potencial que tiene este tipo de interfaz.
 
