@@ -1,6 +1,6 @@
 Prácticos realizados:
 
-1. [Most popular y Item Average Rating](https://github.com/vndiaz1/vndiaz1-IIC3633-2020/new/master/Pr%C3%A1cticos)
+1. [Most popular y Item Average Rating](https://github.com/vndiaz1/vndiaz1-IIC3633-2020/blob/master/Pr%C3%A1cticos/pyRecLab_MostPopular.ipynb)
 2. [User Knn](https://github.com/vndiaz1/vndiaz1-IIC3633-2020/blob/master/Pr%C3%A1cticos/tutorial_pyreclab_01.ipynb)
 3. [Slope One](https://github.com/vndiaz1/vndiaz1-IIC3633-2020/blob/master/Pr%C3%A1cticos/pyRecLab_SlopeOne.ipynb)
 4. [Item Knn](https://github.com/vndiaz1/vndiaz1-IIC3633-2020/blob/master/Pr%C3%A1cticos/pyRecLab_iKNN.ipynb)
